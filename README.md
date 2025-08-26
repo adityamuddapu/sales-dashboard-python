@@ -1,10 +1,15 @@
 # sales-dashboard-python
 
-Small analytics project that loads a CSV of retail sales and produces:
-- Monthly revenue trend (`revenue_by_month.png`)
-- Units sold by category (`units_by_category.png`)
-- Top products by revenue (`top_products_revenue.png`)
-- Descriptive stats (`summary_stats.md`)
+## Dashboards  
+
+### Monthly Revenue Trend  
+![Monthly revenue by month](images/revenue_by_month.png)
+
+### Units Sold by Category  
+![Units sold by category](images/units_by_category.png)
+
+### Top Products by Revenue  
+![Top products by revenue](images/top_products_revenue.png)
 
 **Tech:** Python, Pandas, Matplotlib
 
