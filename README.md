@@ -1,3 +1,16 @@
+This project analyzes sales data (CSV) to generate insights into revenue trends, category performance, and top products. Built with Python, Pandas, and Matplotlib, it demonstrates data cleaning, statistical analysis, and dashboard creation.
+
+Key Skills Demonstrated:
+
+- Data cleaning & preprocessing
+
+- Exploratory data analysis
+
+- Visualization for business insights
+
+- Reproducible workflow with requirements.txt
+
+
 # sales-dashboard-python
 
 ## Dashboards  
